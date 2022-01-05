@@ -16,6 +16,7 @@ main {
 .main-header {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   padding: 60px;
   background: #13293d;
   color: #fff;
